@@ -1,4 +1,6 @@
-# COMP482 – Algorithm Design and Analysis – Fall 2019
+# COMP482 – Algorithm Design and Analysis
+
+**Fall 2019**
 
 **Required Text**: Algorithm Design - Kleinberg & Tardos
 
