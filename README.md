@@ -2,7 +2,7 @@
 
 **Required Text**: Algorithm Design - Kleinberg & Tardos
 
-**Course Goals**: Successful students will
+**Course Goals**:
 - Utilize and strengthen programming proficiency
 - Apply mathematical/computer science concepts to analyze algorithms
 - Understand and use design techniques to create/improve algorithms for computational problems
