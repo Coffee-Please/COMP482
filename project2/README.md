@@ -1,4 +1,4 @@
-**COMP 482 Project 2**
+# Project 2
 
 **Idea**: You will be given a set of integers and need to find the *i<sup>th</sup>* smallest using three methods
 
