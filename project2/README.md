@@ -1,4 +1,4 @@
-# Project 2
+# Project 2 | Sorting Algorithms 
 
 **Idea**: You will be given a set of integers and need to find the *i<sup>th</sup>* smallest using three methods
 
