@@ -1,4 +1,4 @@
-**COMP 482 Project 1**
+# Project 1 | The Roommate Problem
 
 **Idea**: Recall the Roommate problem.  
 
